@@ -26,11 +26,19 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ] What is React JS and what problems does it try and solve? Support your answer with concepts introduced in class and from your personal research on the web.
 
+An open sourced library used for building user interfaces for single page applications.
+
 - [ ] What does it mean to _think_ in react?
+
+To think about the an application as you're building it and to visualize how to buliding smaller managable apps.
 
 - [ ] Describe state.
 
+An object that determines how a component renders and reacts.
+
 - [ ] Describe props.
+
+Properties that help components talk to each other
 
 ## Project Set Up
 
